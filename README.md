@@ -6,6 +6,6 @@ misses, one of the players get a point. You need 3 points to win.
 
 ![Screenshot](screenshot.png)
 
-*The images above are a snapshot of what the application looks like playing.*
+*The image above is a snapshot of what the application looks like when starting the game.*
 
 Live Demo: https://stellagurin.github.io/Ping-Pong-Game/
