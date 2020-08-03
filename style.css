@@ -1,0 +1,20 @@
+#container {
+	width: 500px;
+	height: 520px;
+	border: 1px solid #ccc;
+	margin: auto;
+	padding: 10px;
+}
+
+#initial {
+	text-align: center;
+}
+
+h1 {
+	font-size: 20px;
+	line-height:20px;
+}
+
+#initial img {
+	margin: 0 1px;
+}
