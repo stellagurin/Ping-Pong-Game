@@ -5,7 +5,11 @@ Once the game starts, the user has to control how fast the paddles can move up a
 misses, one of the players get a point. You need 3 points to win.
 
 ![Screenshot](screenshot.png)
+![Screenshot](screenshot2.png)
+![Screenshot](screenshot3.png)
+![Screenshot](screenshot4.png)
+![Screenshot](screenshot5.png)
 
-*The image above is a snapshot of what the application looks like when starting the game.*
+*The images above are snapshots of what the application looks like when playing the game.*
 
 Live Demo: https://stellagurin.github.io/Ping-Pong-Game/
